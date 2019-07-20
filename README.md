@@ -1,7 +1,7 @@
 # sRender
 
 
-Just a note, another repo will be up later today that contains bare minumum code to make 3D graphics with Java.
+https://github.com/AndrewCPU/Easy3D is the lightweight version of this.
 
 Hi! So this is a program that renders a 3D world, does basic world generation as well as some lighting calculations. 
 here are particles, and an inventory system.
